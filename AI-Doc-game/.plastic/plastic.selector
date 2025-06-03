@@ -1,0 +1,4 @@
+repository "AI-Doc-game/AI-Doc-game@5773837386756@cloud"
+  path "/"
+    br "/main"
+    co "/main"
